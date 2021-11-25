@@ -1,2 +1,3 @@
 # VectorCalculator
-A 3-dimensional vector calculator, which I made as a school project.
+Debug File:
+https://github.com/abxh/VectorCalculator/raw/master/VectorCalculator.exe
